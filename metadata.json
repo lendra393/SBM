@@ -1,0 +1,5 @@
+{
+  "name": "RAB Calculator AI",
+  "description": "An intelligent Cost Estimation (RAB) calculation system that allows manual data entry and automatic data interpretation from Excel files using AI. The system provides detailed cost breakdowns, focusing on labor wage calculations.",
+  "requestFramePermissions": []
+}
